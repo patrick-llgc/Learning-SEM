@@ -14,7 +14,9 @@ edx course [link](https://youtu.be/gKJxcCE5lZ8)
 	3. Polycrystalline samples: all possible diffraction peaks
 	4. Could NOT be used for amorphous samples
 - Different crystal systems (cubic, hexagonal, tetragonal, etc) correspond to different patterns of peaks at miller indices (hkl).
+
 ![](img/imaging_method_size.PNG)
+
 - What XRD CAN do:
 	1. internal stress (with single and poly crystals)
 	2. Size of crystal grains (with poly crystals and [Scherrer equation](https://en.wikipedia.org/wiki/Scherrer_equation)) 
